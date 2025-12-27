@@ -1,7 +1,7 @@
 # Weather App
 
 Это приложение для отслеживания погоды в реальном времени.
-Приложение написано на React в целях саморазвития.
+Приложение написано на React в рамках его изучения.
 
 <img width="2515" height="965" alt="image" src="https://github.com/user-attachments/assets/570cf9fa-308d-4f19-b8b9-36fcb65ad9a9" />
 
